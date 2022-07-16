@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cfanoulis&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-I'm currently doing Fullstack (front-end & back-end, with the occasional Ops-work) development, as well as maintaining a few code libraries using [TypeScript]() & [Rust]()
+I'm currently doing Fullstack (front-end & back-end, with the occasional Ops-work) development, as well as maintaining a few code libraries using [TypeScript](https://typescriptlang.org) & [Rust](https://rust-lang.org)
 
 <br />
 
