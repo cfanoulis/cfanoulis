@@ -9,7 +9,7 @@
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=cfanoulis&style=flat&color=orange)
-![Twitter Follow](https://img.shields.io/twitter/follow/cfanoulis?color=blue&logo=twitter&style=flat)
+[![Follow @cfanoulis](https://img.shields.io/twitter/follow/cfanoulis?color=blue&logo=twitter&style=flat)](https://twitter.com/intent/follow?screen_name=cfanoulis)
 [![committers.top badge](https://user-badge.committers.top/greece/cfanoulis.svg)](https://user-badge.committers.top/greece/cfanoulis)
 
 I'm currently doing Fullstack (front-end & back-end, with the occasional Ops-work) development, as well as maintaining a few code libraries using [TypeScript](https://typescriptlang.org) & [Rust](https://rust-lang.org)
